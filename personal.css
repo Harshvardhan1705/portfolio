@@ -1,0 +1,83 @@
+.introduction {
+  background-color: #caf1de;
+  color: #008b8b;
+  border: 1.5px solid black;
+  border-color: #008b8b;
+  margin: 20px;
+  padding: 20px; 
+  font-size: 16px; 
+  font-weight: bold; 
+  text-align: center; 
+  line-height: 1.5; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+img 
+{
+  border-radius: 50%;
+}
+
+
+.education
+{
+  width:1750px;
+  margin:auto;
+	background-color: #800517;
+  color: #800517;
+  border: 2px solid black;
+  border-color: #FFB6C1;
+  margin: 20px;
+  padding: 20px; 
+  font-size: 16px; 
+  font-weight: bold; 
+  text-align: center; 
+  line-height: 1.5; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.education img 
+{
+  border-radius: 0;
+}
+
+.hobbies
+{
+  background-color: #E9CFEC;
+  color: #A65E8D;
+  border: 3px solid black;
+  border-color: #A65E8D;
+  margin: 20px;
+  padding: 20px; 
+  font-size: 16px; 
+  font-weight: bold; 
+  text-align: center; 
+  line-height: 1.5; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.achievements
+{
+  background-color: black;
+  color: #DAA520; 
+  border: 4px solid black;
+  border-color: #DAA520;
+  margin: 20px;
+  padding: 20px; 
+  font-size: 16px; 
+  font-weight: bold; 
+  text-align: center; 
+  line-height: 1.5; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+li
+{
+  text-align: left;
+  margin: 5px 0;
+}
+
+ul
+{
+  padding: 0; 
+  list-style-type: square;
+}
